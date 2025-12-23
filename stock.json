@@ -1,0 +1,49 @@
+{
+  "ABC_PROXY_GB": {
+    "1 GB": {
+      "price": 1,
+      "Sub account": [
+        "as.02fb0a78uhn636b8a.abcproxy.vip:4950:bajidTP192-zone-abc-region-ci:VZPohjmvUr",
+        "as.02fb0a78uhn636b8a.abcproxy.vip:4950:bajidTP192-zone-abc-region-ci:VZPohjmvUr"
+      ],
+      "CD Key": [
+      ]
+    },
+    "5 GB": {
+      "price": 2,
+      "Sub account": [
+        "as.02fb0a78uhn636b8a.abcproxy.vip:4950:bajidTP192-zone-abc-region-ci:VZPohjmvUr",
+        "as.02fb0a78uhn636b8a.abcproxy.vip:4950:bajidTP192-zone-abc-region-ci:VZPohjmvUr"
+      ],
+      "CD Key": [
+        "nai test😀"
+      ]
+    }
+  },
+  "PREMIUM_VPN": {
+    "Nord VPN": {
+      "price": 3,
+      "Account": [
+        "norduser2:pass456"
+      ]
+    },
+    "Photon VPN": {
+      "price": 250,
+      "Account": [
+        "photon:pass789"
+      ]
+    }
+  },
+  "PROXY_SELLER_GB": {
+    "5 GB": {
+      "price": 400,
+      "Account": [
+        "seller:pass"
+      ]
+    }
+  },
+  "NODEMAVEN_GB": {},
+  "GBPIA_S5_PROXY": {},
+  "GBCHERRY_PROXY": {},
+  "GB9_PROXY": {}
+}
