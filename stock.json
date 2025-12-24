@@ -1,13 +1,9 @@
 {
   "ABC_PROXY_GB": {
     "1 GB": {
-      "price": 175,
+      "price": 1,
       "Sub account": [
-        "as.02fb0a7129636b8a.abcproxy.vip:4950:RRM745PS2512-zone-abc-:egion-ci:EVY7cwCfyYcX",
-        
-        "as.02fb0a7129636b8a.abcproxy.vip:4950:RRM7447MD2512-zone-ab-region-ci:gFYIMO2tEZm",
-        "as.02fb0a7129636b8a.abcproxy.vip👈4950👈RRM889CZ2512-zone-abc-r👈egion-ci👈zRGBbw4jpj"
-        
+        "as.02fb0a78uhn636b8a.abcproxy.vip:4950:bajidTP192-zone-abc-region-ci:VZPohjmvUr"
       ],
       "CD Key": ["nai test😀"]
     },
@@ -24,50 +20,71 @@
         "as.02fb0a78uhn636b8a.abcproxy.vip:4950:bajidTP192-zone-abc-region-ci:VZPohjmvUr"
       ],
       "CD Key": ["nai test😀"]
+    },
+    "5 GB": {
+      "price": 5,
+      "Sub account": [
+        "as.02fb0a78uhn636b8a.abcproxy.vip:4950:bajidTP192-zone-abc-region-ci:VZPohjmvUr"
+      ],
+      "CD Key": ["nai test😀"]
     }
   },
 
   "PROXY_SELLER_GB": {
-    "1 GB": { "price": 80, "Account": ["seller:pass"] },
-    "2 GB": { "price": 160, "Account": ["seller:pass"] },
-    "3 GB": { "price": 240, "Account": ["seller:pass"] }
+    "1 GB": {
+      "price": 100,
+      "Account": []
+    },
+    "2 GB": {
+      "price": 200,
+      "Account": []
+    },
+    "3 GB": {
+      "price": 300,
+      "Account": []
+    },
+    "5 GB": {
+      "price": 400,
+      "Account": ["seller:pass"]
+    }
   },
 
   "NODEMAVEN_GB": {
-    "1 GB": { "price": 150, "Account": ["nodemaven:test123"] },
-    "2 GB": { "price": 200, "Account": ["nodemaven:test123"] },
-    "3 GB": { "price": 300, "Account": ["nodemaven:test123"] }
+    "1 GB": { "price": 0, "Account": [] },
+    "2 GB": { "price": 0, "Account": [] },
+    "3 GB": { "price": 0, "Account": [] }
   },
 
   "GBPIA_S5_PROXY": {
-    "1 GB": { "price": 120, "Account": ["gbpia:test123"] },
-    "2 GB": { "price": 240, "Account": ["gbpia:test123"] },
-    "3 GB": { "price": 360, "Account": ["gbpia:test123"] }
+    "1 GB": { "price": 0, "Account": [] },
+    "2 GB": { "price": 0, "Account": [] },
+    "3 GB": { "price": 0, "Account": [] }
   },
 
   "GBCHERRY_PROXY": {
-    "1 GB": { "price": 110, "Account": ["cherry:test123"] },
-    "2 GB": { "price": 220, "Account": ["cherry:test123"] },
-    "3 GB": { "price": 330, "Account": ["cherry:test123"] }
+    "1 GB": { "price": 0, "Account": [] },
+    "2 GB": { "price": 0, "Account": [] },
+    "3 GB": { "price": 0, "Account": [] }
   },
 
   "GB9_PROXY": {
-    "1 GB": { "price": 90, "Account": ["gb9:test123"] },
-    "2 GB": { "price": 180, "Account": ["gb9:test123"] },
-    "3 GB": { "price": 270, "Account": ["gb9:test123"] }
+    "1 GB": { "price": 0, "Account": [] },
+    "2 GB": { "price": 0, "Account": [] },
+    "3 GB": { "price": 0, "Account": [] }
   },
 
   "PREMIUM_VPN": {
-    "NOT_VPN_7D": {
-      "title": "🛡️ NOT VPN (7 Days)",
-      "price": 80,
-      "accounts": [
-        {
-          "user": "aguhe@rover.info",
-          "pass": "aguhe@rover.info"
-        }
-      ]
+    "Nord VPN": {
+      "1 Month": {
+        "price": 3,
+        "Account": ["norduser2:pass456"]
+      }
+    },
+    "Photon VPN": {
+      "1 Month": {
+        "price": 250,
+        "Account": ["photon:pass789"]
+      }
     }
   }
 }
-  
