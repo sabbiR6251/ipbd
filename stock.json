@@ -77,9 +77,9 @@
     "Nord VPN": {
       "1 Month": {
         "price": 3,
-        "Account": ["aguhe@rover.info:aguhe@rover.info"]
-      }
+        "Account": ["aguhe@rover.info:aguhe@rover.info"]      
     },
+      
     "Photon VPN": {
       "1 Month": {
         "price": 250,
