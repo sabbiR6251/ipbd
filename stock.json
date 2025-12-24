@@ -57,35 +57,18 @@
     "3 GB": { "price": 270, "Account": ["gb9:test123"] }
   },
 
-  "NOT_VPN_PROGRAM": {
-    "7 Days": {
+  {
+  "PREMIUM_VPN": {
+    "NOT_VPN_7_DAYS": {
+      "title": "🛡️ NOT VPN (7 Days)",
       "price": 80,
-      "Type": "Program VPN",
-      "Credential": {
+      "duration": "7 Days",
+      "type": "Program VPN",
+      "credential": {
         "email": "aguhe@rover.info",
         "password": "aguhe@rover.info"
       },
-      "Note": "Single user only"
-    },
-
-    "15 Days": {
-      "price": 150,
-      "Type": "Program VPN",
-      "Credential": {
-        "email": "55",
-        "password": "23"
-      },
-      "Note": "Stable & secure"
-    },
-
-    "30 Days": {
-      "price": 280,
-      "Type": "Program VPN",
-      "Credential": {
-        "email": "12",
-        "password": "24"
-      },
-      "Note": "Best for long term use"
+      "note": "Single user only | No reshare"
     }
   }
     }
