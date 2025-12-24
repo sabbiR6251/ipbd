@@ -57,7 +57,6 @@
     "3 GB": { "price": 270, "Account": ["gb9:test123"] }
   },
 
-  {
   "PREMIUM_VPN": {
     "NOT_VPN_7_DAYS": {
       "title": "🛡️ NOT VPN (7 Days)",
