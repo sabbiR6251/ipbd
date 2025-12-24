@@ -57,17 +57,19 @@
     "3 GB": { "price": 270, "Account": ["gb9:test123"] }
   },
 
+  
   "PREMIUM_VPN": {
-    "NOT_VPN_7_DAYS": {
-      "title": "🛡️ NOT VPN (7 Days)",
+    "NOT_VPN_7D": {
+      "name": "🛡️ NOT VPN (7 Days)",
       "price": 80,
-      "duration": "7 Days",
-      "type": "Program VPN",
-      "credential": {
-        "email": "565",
-        "password": "224"
-      },
-      "555": "Single user only | No reshare"
+      "stock": 1,
+      "status": "active",
+      "account": [
+        {
+          "user": "aguhe@rover.info",
+          "password": "aguhe@rover.info"
+        }
+      ]
     }
   }
-    }
+}
