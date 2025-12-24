@@ -30,7 +30,7 @@
   },
 
   "NODEMAVEN_GB": {
-    "500 GB": { "price": 310, "Account": ["nodemaven:test123"] },
+    "500 MB": { "price": 310, "Account": ["nodemaven:test123"] },
     "2 GB": { "price": 200, "Account": ["nodemaven:test123"] },
     "3 GB": { "price": 300, "Account": ["nodemaven:test123"] }
   },
