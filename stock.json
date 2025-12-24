@@ -61,19 +61,30 @@
     "7 Days": {
       "price": 80,
       "Type": "Program VPN",
-      "Access": "Emaila:guhe@rover.info:pss:aguhe@rover.info",
-      "Note": "aguhe@rover.info"
+      "Credential": {
+        "email": "aguhe@rover.info",
+        "password": "aguhe@rover.info"
+      },
+      "Note": "Single user only"
     },
+
     "15 Days": {
       "price": 150,
       "Type": "Program VPN",
-      "Access": "Single User",
+      "Credential": {
+        "email": "",
+        "password": ""
+      },
       "Note": "Stable & secure"
     },
+
     "30 Days": {
       "price": 280,
       "Type": "Program VPN",
-      "Access": "Single User",
+      "Credential": {
+        "email": "",
+        "password": ""
+      },
       "Note": "Best for long term use"
     }
   }
