@@ -72,8 +72,8 @@
       "price": 150,
       "Type": "Program VPN",
       "Credential": {
-        "email": "",
-        "password": ""
+        "email": "55",
+        "password": "23"
       },
       "Note": "Stable & secure"
     },
@@ -82,8 +82,8 @@
       "price": 280,
       "Type": "Program VPN",
       "Credential": {
-        "email": "",
-        "password": ""
+        "email": "12",
+        "password": "24"
       },
       "Note": "Best for long term use"
     }
