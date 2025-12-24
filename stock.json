@@ -31,9 +31,9 @@
       "Account": []
     },
   "NODEMAVEN_GB": {
-    "500 MB: { "price": 310, "Account": [] },
-    "1 GB": { "price": 550, "Account": [] },
-    "3 GB": { "pprice: 0, "Account": [] }
+    "500 MB: { "price": 310, "Account": ["65"] },
+    "1 GB": { "price": 550, "Account": ["646"] },
+    "3 GB": { "pprice: 0, "Account": ["⁸6] }
   },
 
   "GBPIA_S5_PROXY": {
