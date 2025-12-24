@@ -1,11 +1,13 @@
 {
-  
   "ABC_PROXY_GB": {
     "1 GB": {
       "price": 175,
       "accounts": [
-        "as.02fb0a7129636b8a.abcproxy.vip:4950:RRM889CZ2512-zone-abc-region-:ci:zRGBbw4jpj"}
-        
+        "as.02fb0a7129636b8a.abcproxy.vip:4950:RRM889CZ2512-zone-abc-region-:ci:zRGBbw4jpj",
+        "as.02fb0a7129636b8a.abcproxy.vip:4950:RRM7447MD2512-zone-abc-region-ci:gFYIMO2tEZm",
+        "as.02fb0a7129636b8a.abcproxy.vip:4950:RRM745PS2512-zone-abc-region-ci:EVY7cwCfyYcX",
+        "as.02fb0a7129636b8a.abcproxy.vip:4950:RRM835QE2512-zone-abc-region-ci:4y6csttnEJM",
+        "as.02fb0a7129636b8a.abcproxy.vip:4950:RRM874ER2512-zone-abc-region-ci:B8rQvi7Xln7z"
       ],
       "CD Key": ["766"]
     },
@@ -17,13 +19,13 @@
       "CD Key": ["960"]
     },
     "3 GB": {
-      "price": 490 ,
+      "price": 490,
       "accounts": [
         "as.02fb0a78uhn636b8a.abcproxy.vip:4950:bajidTP192-zone-abc-region-ci:VZPohjmvUr"
       ]
     },
     "5 GB": {
-      "price": 800 ,
+      "price": 800,
       "accounts": [
         "as.02fb0a78uhn636b8a.abcproxy.vip:4888:bajidTP192-zone-abc-region-ci:VZPohjmvUr"
       ]
@@ -34,13 +36,10 @@
     "1 GB": { "price": 300, "accounts": ["46742278c84d5cad859a"] },
     "2 GB": { "price": 550, "accounts": ["75"] },
     "3 GB": { "price": 820, "accounts": [] },
-    "5 GB": {
-      "price": 1200,
-      "accounts": ["seller:pass"]
-    }
+    "5 GB": { "price": 1200, "accounts": ["seller:pass"] }
   },
 
-   "NODEMAVEN_GB": {
+  "NODEMAVEN_GB": {
     "500 MB": { "price": 310, "accounts": [] },
     "1 GB": { "price": 590, "accounts": [] },
     "3 GB": { "price": 810, "accounts": [] }
@@ -65,7 +64,7 @@
   },
 
   "PREMIUM_VPN": {
-    "NOT_zRGBbw4jpj
+    "NOT_zRGBbw4jpj": {
       "price": 80,
       "accounts": [
         {
@@ -74,19 +73,13 @@
         }
       ]
     },
-
     "HMA_VPN_7D": {
       "price": 70,
-      "accounts": [
-        "norduser2:pass456"
-      ]
+      "accounts": ["norduser2:pass456"]
     },
-
     "PHOTON_VPN_1MONTH": {
       "price": 200,
-      "accounts": [
-        "photon:pass789"
-      ]
+      "accounts": ["photon:pass789"]
     }
   }
 }
