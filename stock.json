@@ -1,25 +1,26 @@
 {
   "ABC_PROXY_GB": {
     "1 GB": {
-      "price": 1,
+      "price": 175,
       "accounts": [
         "as.02fb0a78uhn636b8a.abcproxy.vip:4950:bajidTP192-zone-abc-region-ci:VZPohjmvUr"
-      ]
+      ],
+      "CD Key": ["766"]
     },
     "2 GB": {
-      "price": 2,
+      "price": 330,
       "accounts": [
         "as.02fb0a78uhn636b8a.abcproxy.vip:4950:bajidTP192-zone-abc-region-ci:VZPohjmvUr"
       ]
     },
     "3 GB": {
-      "price": 3,
+      "price": 490,
       "accounts": [
         "as.02fb0a78uhn636b8a.abcproxy.vip:4950:bajidTP192-zone-abc-region-ci:VZPohjmvUr"
       ]
     },
     "5 GB": {
-      "price": 5,
+      "price": 175,
       "accounts": [
         "as.02fb0a78uhn636b8a.abcproxy.vip:4950:bajidTP192-zone-abc-region-ci:VZPohjmvUr"
       ]
@@ -36,7 +37,7 @@
     }
   },
 
-  "NODEMAVEN_GB": {
+   "NODEMAVEN_GB": {
     "1 GB": { "price": 0, "accounts": [] },
     "2 GB": { "price": 0, "accounts": [] },
     "3 GB": { "price": 0, "accounts": [] }
@@ -71,15 +72,15 @@
       ]
     },
 
-    "HMA_VPN✅": {
-      "price": 3,
+    "HMA_VPN_7D": {
+      "price": 70,
       "accounts": [
         "norduser2:pass456"
       ]
     },
 
-    "PHOTON_VPN_1M": {
-      "price": 250,
+    "PHOTON_VPN_1MONTH": {
+      "price": 200,
       "accounts": [
         "photon:pass789"
       ]
