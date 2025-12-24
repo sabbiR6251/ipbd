@@ -3,7 +3,6 @@
     "1 GB": {
       "price": 1,
       "Sub account": [
-        "as.02fb0a78uhn636b8a.abcproxy.vip:4950:bajidTP192-zone-abc-region-ci:VZPohjmvUr",
         "as.02fb0a78uhn636b8a.abcproxy.vip:4950:bajidTP192-zone-abc-region-ci:VZPohjmvUr"
       ],
       "CD Key": [
@@ -13,7 +12,6 @@
     "5 GB": {
       "price": 2,
       "Sub account": [
-        "as.02fb0a78uhn636b8a.abcproxy.vip:4950:bajidTP192-zone-abc-region-ci:VZPohjmvUr",
         "as.02fb0a78uhn636b8a.abcproxy.vip:4950:bajidTP192-zone-abc-region-ci:VZPohjmvUr"
       ],
       "CD Key": [
@@ -43,8 +41,36 @@
       ]
     }
   },
-  "NODEMAVEN_GB": {},
-  "GBPIA_S5_PROXY": {},
-  "GBCHERRY_PROXY": {},
-  "GB9_PROXY": {}
+  "NODEMAVEN_GB": {
+    "1 GB": {
+      "price": 100,
+      "Account": [
+        "nodemaven:test123"
+      ]
+    }
+  },
+  "GBPIA_S5_PROXY": {
+    "1 GB": {
+      "price": 120,
+      "Account": [
+        "gbpia:test123"
+      ]
+    }
+  },
+  "GBCHERRY_PROXY": {
+    "1 GB": {
+      "price": 110,
+      "Account": [
+        "cherry:test123"
+      ]
+    }
+  },
+  "GB9_PROXY": {
+    "1 GB": {
+      "price": 90,
+      "Account": [
+        "gb9:test123"
+      ]
+    }
+  }
 }
