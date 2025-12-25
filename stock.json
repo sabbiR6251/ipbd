@@ -32,9 +32,7 @@
   "PROXY_SELLER_GB": {
     "1 GB": {
       "price": 300,
-      "accounts": [
-        "46742278c84d5cad859a"
-      ]
+      "accounts": []
     },
     "2 GB": {
       "price": 550,
