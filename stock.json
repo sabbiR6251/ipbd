@@ -22,7 +22,7 @@
     },
     "3 GB": {
       "price": 1,
-      "accounts": ["Ckk"]
+      "accounts": []
     },
     "5 GB": {
       "price": 800,
