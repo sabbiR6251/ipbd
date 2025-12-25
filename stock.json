@@ -48,7 +48,7 @@
   "GBPIA_S5_PROXY": {
     "1 GB": { "price": 220, "accounts": [] },
     "2 GB": { "price": 400, "accounts": [] },
-    "3 GB": { "price": 580, "accounts": [] }
+    "3 GB": { "price": 10, "accounts": ["656"] }
   },
 
   "GBCHERRY_PROXY": {
