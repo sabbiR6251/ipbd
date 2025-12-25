@@ -119,9 +119,7 @@
     },
     "HMA_VPN_7D": {
       "price": 70,
-      "accounts": [
-        "norduser2:pass456"
-      ]
+      "accounts": []
     },
     "PHOTON_VPN_1MONTH": {
       "price": 200,
